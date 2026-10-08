@@ -38,7 +38,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — |https://claude.ai/share/6a460b28-4a3d-46ea-b043-5e8af3e1eb33 |Utilizado no arquivo spec.md e possívelmente utilizado no plan.md |
+| 1 |https://claude.ai/share/6a460b28-4a3d-46ea-b043-5e8af3e1eb33 |Utilizado no arquivo spec.md e possívelmente utilizado no plan.md |
+| 2 |https://claude.ai/share/5fd4eeae-648e-454f-a5f2-10ffcc41697b |Utilizado no arquivo spec.md |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
