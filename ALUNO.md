@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: thiago
+Nome: Thiago Lopes Martins
 
-RA: >>> PREENCHER <<<
+RA: >>> 23016365-2 <<<
 
 Conta GitHub: @7thiago
 
